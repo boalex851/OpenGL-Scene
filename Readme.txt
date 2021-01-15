@@ -1,5 +1,7 @@
 Blender Works:
   Mage's staff variants created in blender.
+GIMP Textures:
+  Textures I created in GIMP for special effects in Unity Particle System and Unreal Particle System.  
 C++, Win32, DirectX Games Folder:
   AngryBirdsPigAnim: A simple animation of the pig from the Angry Birds game.
   Checkers(console): Checkers game: a player vs. AI. King pieces can move only 1 step back.
