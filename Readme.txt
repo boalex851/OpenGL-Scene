@@ -12,3 +12,4 @@ Unreal Games:
   BullCowGame: A simple word guessing game made in unreal.
 Unity Games:
   RollABoll: A simple game where you need to roll a ball and knock enemy balls off the arena. Tracks highest score, instructions inside the game.
+  ClickyStuff: A simple game where you click on stuff before it falls off the arena. Tracks highest score, instructions inside the game.
