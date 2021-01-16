@@ -1,5 +1,5 @@
 Blender Works:
-  Mage's staff variants created in blender.
+  Mage's staff variants created in blender and part of their animation when they glow.
 GIMP Textures:
   Textures I created in GIMP for special effects in Unity Particle System and Unreal Particle System.  
 C++, Win32, DirectX Games Folder:
